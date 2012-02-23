@@ -1,0 +1,3 @@
+This simple project can be used to convert wikipedia dumps to plain text.
+
+usage: java -Xmx2G -Dfile.encoding=UTF-8 -jar wiki2text-1.0-jar-with-dependencies.jar nlwiki-20120203-pages-articles.xml.bz2 > nl.txt
